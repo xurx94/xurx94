@@ -1,18 +1,17 @@
+<div align="center">
+
 # Hey there 👋, I'm Enayet Hussain
 
 ### Programmer • Tech Enthusiast • Explorer
 
-I am a Computer Science & Engineering student.
-I enjoy building clean, cross-platform mobile applications and am currently expanding my skill set into the world of machine learning and computer vision.
+</div>
 
 ---
-
 ## 🚀 About Me
 - 🎓 Engineering Student at **Rajshahi University of Engineering & Technology (RUET)**.
 - 📱 Indulged in mobile application development, primarily bringing ideas to life with Flutter and Dart.
 - 🧠 Currently beginning my deep learning journey! I am actively learning the core architectures.
 - 🎯 When I'm not coding, I'm practicing competitive programming or exploring creative writing.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -35,3 +34,6 @@ I enjoy building clean, cross-platform mobile applications and am currently expa
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enayethussain2149)
+
+## Just Because
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xurx94&theme=dark)](https://git.io/streak-stats)
